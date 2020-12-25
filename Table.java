@@ -10,15 +10,15 @@ import java.util.NoSuchElementException;
 
 public interface Table<K, V> {
 
-		public boolean put(K key, V value);
+	public boolean put(K key, V value);
 
-		public V get(K key) throws NoSuchElementException;
+	public V get(K key) throws NoSuchElementException;
 
-		public int size();
+	public int size();
 
-		public boolean containsKey(K key);
+	public boolean containsKey(K key);
 
-		public String[] remove(K key);
+	public String[] remove(K key);
 
-		public void clear();
+	public void clear();
 }
