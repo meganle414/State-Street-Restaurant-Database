@@ -13,18 +13,6 @@ Role of submitting team member: Back End 1
 TA: Sophie Stephenson
 Lecturer: Gary Dahl
 
-Contributions Week 1:
----------------------
-Created a .txt file with an update on my work. 
-
-Contributions Week 2:
----------------------
-Wrote BackEnd.java, which implements List.java and lets users make a hashtable
-
-Contributions Week 3:
----------------------
-Checked in on the others' progress and made my Makefile.
-
 Files written by me:
 --------------------
 BackEnd.java
