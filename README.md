@@ -29,4 +29,4 @@ Table.java
 Web address at which the program is available:
 ----------------------------------------------
 http://35.226.220.167/cgi-bin/project-four-af/brendel2_Front_End_Developer_1/FrontEnd.cgi
-(This link no longer works because the semester is over)
+* (This link no longer works because the semester is over)
