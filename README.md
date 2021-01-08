@@ -10,7 +10,7 @@ Name of submitting team member: Megan Le
 Wisc email of submitting team member: mle25@wisc.edu
 Team name: AF
 Role of submitting team member: Back End 1
-TA: Sophie
+TA: Sophie Stephenson
 Lecturer: Gary Dahl
 
 Contributions Week 1:
@@ -41,7 +41,3 @@ Table.java
 Web address at which the program is available:
 ----------------------------------------------
 http://35.226.220.167/cgi-bin/project-four-af/brendel2_Front_End_Developer_1/FrontEnd.cgi
-
-Additional notes about the submission:
---------------------------------------
-<List any additional notes for the grader here (only required by the final deadline).>
